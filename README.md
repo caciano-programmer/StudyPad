@@ -15,5 +15,6 @@ files. Files are stored and searched by key-words that the user enters whe they 
 files can also be searched by time period. This gives the advantage that when there is a large amount of 
 notes taken, such as thousands of files, the user will have the ability to easily see a list of files that 
 match certian keywords(up to three keywords) or files created within a certian time period.
+To use app download the jar file.
 
 
